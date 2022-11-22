@@ -1,1 +1,2 @@
 First file
+Added some text in Feature/FTR-3 branch
